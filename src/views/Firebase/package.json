@@ -1,0 +1,6 @@
+{
+  "name": "Firebase",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Firebase.js"
+}
